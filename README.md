@@ -27,7 +27,7 @@ youtube link: https://youtu.be/yuDX7QLsOMM
     
 <h1>More Detail</h1>
 <h4>In this program, though not all of them are implemented, the dir received as shown in the picture is put in the queue. In the process of dequeuing the directory in the queue, the directory address is passed to the worker function through the pipe. And when the worker is finished, give the subdirectory address inside to the manager again and queue it in the queue and save it. And if there is an empty space in the worker, you can repeat the process by putting it in one by one. And through the signal function, it was understood that it was a program to measure time and to make the worker type and the program type safely when time passes.</h4>
-![이름 없는 노트북 (1)-1 2](https://user-images.githubusercontent.com/63308012/115028992-76fc6180-9f00-11eb-99cc-c4d233893cde.jpg)
+<img width="602" src="https://user-images.githubusercontent.com/63308012/115028992-76fc6180-9f00-11eb-99cc-c4d233893cde.jpg">
 
 <h1>Running a program</h1>
 <img width="602" alt="스크린샷 2021-04-16 오후 6 50 41" src="https://user-images.githubusercontent.com/63308012/115028747-30a70280-9f00-11eb-9ee0-a8229541aa8c.png">
